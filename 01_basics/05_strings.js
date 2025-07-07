@@ -1,11 +1,11 @@
-const name = "hitesh"
+const name = "shrey"
 const repoCount = 50
 
 // console.log(name + repoCount + " Value");
 
 console.log(`Hello my name is ${name} and my repo count is ${repoCount}`);
 
-const gameName = new String('hitesh-hc-com')
+const gameName = new String('shrey-xz-com')
 
 // console.log(gameName[0]);
 // console.log(gameName.__proto__);
@@ -26,7 +26,7 @@ const newStringOne = "   hitesh    "
 console.log(newStringOne);
 console.log(newStringOne.trim());
 
-const url = "https://hitesh.com/hitesh%20choudhary"
+const url = "https://shrey.com/shrey%20chauhan"
 
 console.log(url.replace('%20', '-'))
 
